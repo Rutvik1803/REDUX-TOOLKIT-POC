@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# This repository consist of basic understanding of Redux-Toolkit. 
+
+In this repository a small project is created using React, Redux-Toolkit, and Ant Design. There is a simple Add, Delete and DeleteAll functionalites on User array. 
